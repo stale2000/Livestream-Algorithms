@@ -1,5 +1,5 @@
 #1.4 Palindrome Permutation created by stale2000 - https://repl.it/ISLp/1
-#1.4 Palindrome Permutation: Given a string, write a function to check if it is a permutation of a palindrome. A palindrome is a word or phrase that is the same forwards and backwards. A permutation is a rearrangement of letters. The palindrome does not need to be limited to just dictionary words.
+#1.4 Palindrome Permutation: Determine if you can rearrange a string into a palindrome
 def palin_perm(string):
   hash = {}
   
