@@ -1,5 +1,5 @@
 #1.1 Is Unique created by stale2000 - https://repl.it/ISJY/1
-#1.1 Is Unique: Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures?
+#1.1 Is Unique: Deterimine if a string has unique characters
 
 def unique_chars(string):
   hash = {}
