@@ -1,5 +1,5 @@
 #1.6 String Compression created by stale2000 - https://repl.it/ISOo/1
-#1.6 String Compression: Implement a method to perform basic string compression using the counts of repeated characters. For example, the string aabcccccaaa would become a2blc5a3. If the "compressed" string would not become smaller than the original string, your method should return the original string. You can assume the string has only uppercase and lowercase letters (a - z).
+#1.6 String Compression: Compress a string, such that if there are repeated characters, the repeated characters are replace with the character, and the number of times that it is repeated.  EX: aaabb becomes a3,b2
 
 def str_compress(string):
   return_str = ""
