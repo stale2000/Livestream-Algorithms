@@ -1,5 +1,5 @@
 #1.2 Check Permutation created by stale2000 - https://repl.it/ISLE/0
-#1.2 Check Permutation: Given two strings, write a method to decide if one is a permutation of the other.
+#1.2 Determine if two strings are permutations of each other.
 
 def check_perm(str1, str2):
   hash1 = {}
