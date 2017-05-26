@@ -1,5 +1,5 @@
 #1.3 URLify created by stale2000 - https://repl.it/ISLL/1
-#1.3 URLify: Write a method to replace all spaces in a string with '%20'. 
+#1.3 URLify: Replace all spaces in a string with %20, in the same way that URLs do 
 
 def urlify(string):
   return_str = ""
