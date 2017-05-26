@@ -1,5 +1,5 @@
 #1.5 One Away created by stale2000 - https://repl.it/ISMs/2
-#1.5 One Away: There are three types of edits that can be performed on strings: insert a character, remove a character, or replace a character. Given two strings, write a function to check if they are one edit (or zero edits) away.
+#1.5 One Away: Determine if two strings are at most 1 edit distance away from each other
 
 def one_away(str1, str2):
   edit_count = 0
